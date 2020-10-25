@@ -19,17 +19,15 @@
         img {
             width: 200px;
             height: 200px;
+            transition: width 500ms, height 500ms;
+            transition-timing-function: ease;
         }
 
         a {
             text-decoration: none;
             color: #14274e;
         }
-        img{
-            transition-timing-function(ease);
-        }
         img:hover {
-            animation-duration: 2s;
             width: 210px;
             height: 210px;
         }
