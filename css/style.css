@@ -29,6 +29,7 @@ main {
     padding: 30px;
     color: 14274e;
     min-height: 500px;
+    height: auto;
 }
 footer {
     clear: both;
