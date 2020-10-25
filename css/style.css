@@ -27,7 +27,8 @@ header {
 main {
     background-color: #f1f6f9;
     padding: 30px;
-    color: 14274e;
+    color: #14274e;
+    background-size: auto;
     min-height: 500px;
     height: auto;
 }
