@@ -28,8 +28,8 @@ main {
     background-color: #f1f6f9;
     padding: 30px;
     color: #14274e;
-    background-size: contain;
     min-height: 500px;
+    height: auto;
     background-position: center bottom
 }
 footer {
