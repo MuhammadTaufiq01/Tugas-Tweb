@@ -30,7 +30,7 @@ main {
     color: #14274e;
     min-height: 500px;
     height: fit-content;
-    background-position: center bottom
+    background-position: center bottom;
 }
 footer {
     clear: both;
