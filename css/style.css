@@ -29,7 +29,7 @@ main {
     padding: 30px;
     color: #14274e;
     min-height: 500px;
-    height: auto;
+    height: fit-content;
     background-position: center bottom
 }
 footer {
