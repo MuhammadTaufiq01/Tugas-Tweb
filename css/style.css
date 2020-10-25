@@ -31,6 +31,7 @@ main {
     min-height: 500px;
 }
 footer {
+    float: both;
     background-image: url(https://i.pximg.net/img-original/img/2020/10/19/13/38/45/85109585_p0.jpg);
     background-size: cover;
     background-color: #394867;
